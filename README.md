@@ -13,7 +13,6 @@ Run the tool
 python main.py -t A google.com
 ```
 
-You will see
 On success
 ```
 All 24 nameservers responded!
